@@ -1,0 +1,53 @@
+.admin-panel {
+    max-width: 800px;
+    margin: 20px auto;
+  }
+  
+  .admin-panel h2 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .movie-card-admin {
+    display: flex;
+    max-width: 600px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .movie-card-admin .movie-image {
+    width: 150px;
+    height: 200px;
+    object-fit: cover;
+    margin-right: 20px;
+  }
+  
+  .movie-card-admin .movie-info {
+    flex: 1;
+  }
+  
+  .movie-card-admin .movie-info h2 {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+  }
+  
+  .movie-card-admin .movie-info p {
+    margin-bottom: 5px;
+  }
+  
+  .movie-card-admin .movie-info .movie-year {
+    font-style: italic;
+  }
+  
+  .movie-card-admin .movie-actions {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px;
+  }
+  
+  .movie-card-admin .movie-actions button {
+    margin-left: 10px;
+  }
+  

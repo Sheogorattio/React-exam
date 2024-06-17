@@ -1,0 +1,79 @@
+{
+  "movies": [
+    {
+      "id": "2855",
+      "title": "Inception",
+      "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+      "year": 2010,
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg"
+    },
+    {
+      "id": "452a",
+      "title": "Interstellar",
+      "description": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+      "year": 2014,
+      "image": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+    },
+    {
+      "id": "710",
+      "title": "Shinseiki Evangelion",
+      "description": "A teenage boy finds himself recruited as a member of an elite team of pilots by his father.",
+      "year": 1995,
+      "image": "https://m.media-amazon.com/images/M/MV5BODZkZjUxNmEtMGEyOS00ZDY5LTkxZDMtZTJkZDBiZTkyOWRkXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "510",
+      "title": "Mute",
+      "description": "A mute bartender goes up against his city's gangsters in an effort to find out what happened to his missing partner.\n",
+      "year": 2018,
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAwNTE3MjQ2M15BMl5BanBnXkFtZTgwNjgzNjk2NDM@._V1_.jpg"
+    },
+    {
+      "id": "461",
+      "title": "Kaze tachinu",
+      "description": "Jiro Horikoshi studies assiduously to fulfill his aim of becoming an aeronautical engineer. As WWII begins, fighter aircraft designed by him end up getting used by the Japanese Empire against its foes.\n",
+      "year": 2013,
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU4NDg0MzkzNV5BMl5BanBnXkFtZTgwODA3Mzc1MDE@._V1_.jpg"
+    },
+    {
+      "id": "34",
+      "title": "You Were Never Really Here",
+      "description": "A traumatized veteran unafraid of violence tracks down missing girls for a living. When a job spins out of control, Joe's nightmares overtake him as a conspiracy is uncovered leading to what could be his death trip or his awakening.\nWhen a teenage girl is kidnapped, a jaded enforcer (Phoenix) begins a rescue mission, but uncovers high-level corruption and abuses of power. As he is engulfed in his search for the girl, he is forced to reckon with his own childhood trauma suffered at the hands of his abusive father.",
+      "year": 2017,
+      "image": "https://m.media-amazon.com/images/M/MV5BMDkwOTE0ZjMtZmRiYS00M2M3LWE3MzUtNzNmNmExNTNmNjg5XkEyXkFqcGdeQXVyODE1MjMyNzI@._V1_.jpg"
+    },
+    {
+      "id": "526",
+      "title": "The Square",
+      "description": "A prestigious Stockholm museum's chief art curator finds himself in times of both professional and personal crisis as he attempts to set up a controversial new exhibit.",
+      "year": 2017,
+      "image": "https://m.media-amazon.com/images/M/MV5BYzY5NmJkNWYtZjExYS00NjQyLWJhNmQtYzJlMTNlNzQxOWUzXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "$2a$10$SymnNaRmgUnXwey3/0ZpqOft6wZ.cZaW6N0rcBs4Idh6eYnelS0He",
+      "role": "admin"
+    },
+    {
+      "id": "452a",
+      "username": "Sheogorattio",
+      "password": "$2a$10$gOrtCXqa9htXH9.IlcMvMO6cD1Fpw4tK3oZUzNZcbDryMN7dW6klS",
+      "role": "user"
+    },
+    {
+      "id": "2855",
+      "username": "User",
+      "password": "$2a$10$afkbF3j3l3SefIqr8MD2h.PiYSxirmlQIymFNRQyDk.i8357a2MVe",
+      "role": "user"
+    },
+    {
+      "id": "a1fc",
+      "username": "qwerty",
+      "password": "$2a$10$vG2Ri46cmLzIflFyr8.zA.6rvMLd/rUl6Lk1ja7vezyGpEsm0CXAS",
+      "role": "user"
+    }
+  ]
+}
